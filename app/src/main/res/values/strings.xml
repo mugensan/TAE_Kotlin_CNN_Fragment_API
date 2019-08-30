@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TAE_Kotlin_CNN_Fragment_API</string>
+    <string name="enter_cnn">enter cnn</string>
+    <string name="cnn">CNN</string>
+    <string name="enter_password">enter password</string>
+    <string name="enter_email">enter email</string>
 </resources>
