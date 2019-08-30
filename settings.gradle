@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='TAE_Kotlin_CNN_Fragment_API'
